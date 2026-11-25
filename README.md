@@ -24,7 +24,7 @@
 2. Распакуйте ZIP-архив в отдельную папку.
 3. Откройте `about:debugging#/runtime/this-firefox`.
 4. Нажмите **Загрузить временное дополнение (Load Temporary Add-on)**.
-5. Выберите файл `manifest.json` из распакованной папки OGm.
+5. Выберите файл: сам `OGm_extension.zip` либо `manifest.json` из распакованной папки OGm.
 6. Готово! Откройте [OpenGuessr](https://openguessr.com/).
 
 > ⚠️ В Firefox это временная установка. После полного закрытия браузера расширение потребуется загрузить снова.
@@ -62,7 +62,7 @@
 2. Extract the ZIP archive into a separate folder.
 3. Open `about:debugging#/runtime/this-firefox`.
 4. Click **Load Temporary Add-on**.
-5. Select the `manifest.json` file from the extracted OGm folder.
+5. Select a file: either the `OGm_extension.zip` file itself, or the `manifest.json` file from the unzipped OGm folder.
 6. Done! Open [OpenGuessr](https://openguessr.com/).
 
 > ⚠️ Firefox temporary add-ons are removed after completely closing the browser. You will need to load the extension again.

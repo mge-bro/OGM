@@ -1,0 +1,2 @@
+# OGM
+OpenGuessr helper

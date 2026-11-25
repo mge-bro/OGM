@@ -28,6 +28,7 @@
 6. Готово! Откройте [OpenGuessr](https://openguessr.com/).
 
 > ⚠️ В Firefox это временная установка. После полного закрытия браузера расширение потребуется загрузить снова.
+> ⚠️ Предупреждение: слишком палевное использование приводит к блокировке аккаунта
 
 ### ❓ Решение проблем
 
@@ -66,6 +67,7 @@
 6. Done! Open [OpenGuessr](https://openguessr.com/).
 
 > ⚠️ Firefox temporary add-ons are removed after completely closing the browser. You will need to load the extension again.
+> ⚠️ Warning: overly obvious usage will result in your account being blocked.
 
 ### ❓ Troubleshooting
 
